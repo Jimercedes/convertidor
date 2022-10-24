@@ -14,6 +14,7 @@ public class JavaApplication105 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.print("klk");
         // TODO code application logic here
     }
     
